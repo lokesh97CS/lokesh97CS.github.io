@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lokesh Yadav Mandapalli
 
-Welcome to my personal GitHub Page! I'm a **Senior Software Engineer** with 3+ years of experience in **AI systems, compilers, and edge inference**. I specialize in developing **high-performance AI inference kernels**, **model quantization**, and **hardware-software co-design** for next-generation AI accelerators.
+Welcome to my personal GitHub Page! I'm a **Senior Software Engineer** with 4+ years of experience in **AI systems, compilers, and edge inference**. I specialize in developing **high-performance AI inference kernels**, **model quantization**, and **hardware-software co-design** for next-generation AI accelerators.
 
 ---
 
@@ -9,24 +9,21 @@ Welcome to my personal GitHub Page! I'm a **Senior Software Engineer** with 3+ y
 - 🎓 Graduated from **NIT Srinagar** in Electronics and Communication Engineering.
 - 🧠 Passionate about **AI/ML Systems**, **TinyML**, **Compilers**, and **Computer Architecture**.
 - 🧪 Previously worked at **Jio**, contributed to **Gecko engine of Mozilla Firefox**, and built Progressive Web Apps for **JioOS**.
-- 💡 Currently working at **Kinara AI (acquired by NXP)**, focusing on **8-bit/16-bit quantization** and **optimized kernel development** for custom **AI accelerators (Ara-2)**.
+- 💡 Currently working at **Kinara AI (acquired by NXP Semiconductors)**, focusing on **8-bit/16-bit quantization** and **optimized kernel development** for custom **AI accelerators (Ara-2)**.
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-- **C++**, **Python**, **Rust**, **JavaScript**, **C**
+- **C++**, **Python**, **JavaScript**, **C**
 
-### Systems & Tools
-- **LLVM**, **XLA**, **MLIR**, **ONNX**, **TensorFlow Lite**, **PyTorch**
-- **Git**, **Linux**, **Bash**, **Makefiles**
+### SystemML
+- **PyTorch** ,**Quantization**, **Computer Architecture** **CUDA**,**NNP-TIE ISA**, **LLM inference (dynamic quantization, KV caching)**
 
-### Specializations
-- AI Compilers & Optimizations (IR, graph rewrites, quantization)
-- Tiled & fused kernel implementation for AI workloads
-- DMA, cache optimization, tensor memory layouts
-- LLM inference (dynamic quantization, KV caching)
+### Others
+- Git, GDB, Multithread Programming, Operating System , Object-Oriented Programming , Data structures and Algorithms , SQL
+- **Linux**, **Bash**, **Makefiles**
 
 ---
 
