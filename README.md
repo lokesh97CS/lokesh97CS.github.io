@@ -47,10 +47,9 @@ Welcome to my personal GitHub Page! I'm a **Senior Software Engineer** with 3+ y
 ---
 
 ## 📫 Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐙 [GitHub](https://github.com/your-github-username)  
-- 📧 Email: youremail@example.com
+ 
+- 🐙 [GitHub](https://github.com/lokesh97CS/)  
+- 📧 Email: lokeshyadavmandapalli@gmail.com
 
 ---
 
