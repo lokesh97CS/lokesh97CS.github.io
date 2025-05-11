@@ -1,1 +1,57 @@
-# lokesh97CS.github.io
+# 👋 Hi, I'm Lokesh Yadav Mandapalli
+
+Welcome to my personal GitHub Page! I'm a **Senior Software Engineer** with 3+ years of experience in **AI systems, compilers, and edge inference**. I specialize in developing **high-performance AI inference kernels**, **model quantization**, and **hardware-software co-design** for next-generation AI accelerators.
+
+---
+
+## 🔍 About Me
+
+- 🎓 Graduated from **NIT Srinagar** in Electronics and Communication Engineering.
+- 🧠 Passionate about **AI/ML Systems**, **TinyML**, **Compilers**, and **Computer Architecture**.
+- 🧪 Previously worked at **Jio**, contributed to **Gecko engine of Mozilla Firefox**, and built Progressive Web Apps for **JioOS**.
+- 💡 Currently working at **Kinara AI (acquired by NXP)**, focusing on **8-bit/16-bit quantization** and **optimized kernel development** for custom **AI accelerators (Ara-2)**.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- **C++**, **Python**, **Rust**, **JavaScript**, **C**
+
+### Systems & Tools
+- **LLVM**, **XLA**, **MLIR**, **ONNX**, **TensorFlow Lite**, **PyTorch**
+- **Git**, **Linux**, **Bash**, **Makefiles**
+
+### Specializations
+- AI Compilers & Optimizations (IR, graph rewrites, quantization)
+- Tiled & fused kernel implementation for AI workloads
+- DMA, cache optimization, tensor memory layouts
+- LLM inference (dynamic quantization, KV caching)
+
+---
+
+## 💼 Experience
+
+### 🔹 Senior Software Engineer — **Kinara AI / NXP Semiconductors**  
+📍 Bengaluru, India | 🗓️ Oct 2022 – Present  
+- Developed high-performance inference kernels for custom AI accelerator Ara-2.
+- Designed and implemented **8-bit dynamic quantization** for transformer models.
+- Worked on performance profiling and **SNR accuracy analysis** between float and quantized models.
+
+### 🔹 Software Engineer — **Reliance Jio**  
+📍 Navi Mumbai, India | 🗓️ Jun 2021 – Oct 2022  
+- Contributed to **Gecko (Firefox)** engine for KaiOS – API compatibility and system app updates.
+- Built system PWAs like **Settings app** using **React**, **JavaScript**, and **KaiOS APIs**.
+- Improved app UI/UX and integrated system-level features.
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🐙 [GitHub](https://github.com/your-github-username)  
+- 📧 Email: youremail@example.com
+
+---
+
+> "Always learning, always building – at the intersection of AI and Systems."
